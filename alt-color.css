@@ -275,4 +275,10 @@
     .hasMoreButton-1MELpI {
         color: rgba(var(--alt-color)) !important;
     }
-    
+
+/* My Additions */
+
+/* Discover Menu */
+.categoryItem-1QIroW.selectedCategoryItem-FHKU_o .itemInner-gPkiWb {
+  background-color: rgba(var(--alt-color))!important;
+}
