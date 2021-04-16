@@ -1,11 +1,13 @@
 /* ROUNDY THINGS ALL */
 
+/*
 .theme-dark, .theme-light {
-  --modal-border-radius: 15px 15px 15px 15px;
-  --floating-border-radius: 15px 15px 15px 15px;
-  --expanded-border-radius: 15px 15px 15px 15px;
-  --hover-border-radius: 10px 10px 10px 10px;
+    --modal-border-radius: 15px 15px 15px 15px;
+    --floating-border-radius: 15px 15px 15px 15px;
+    --expanded-border-radius: 15px 15px 15px 15px;
+    --hover-border-radius: 10px 10px 10px 10px;
 }
+*/
 
 .userPopout-3XzG_A {border-radius: var(--modal-border-radius) }
 .menu-3sdvDG {border-radius: var(--expanded-border-radius); background-color: var(--background-secondary) }
