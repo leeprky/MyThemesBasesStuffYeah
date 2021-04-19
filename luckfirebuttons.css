@@ -1,0 +1,11 @@
+/* Makes Luckfire Theme Importable */
+
+@import url(https://raw.githack.com/Discord-Theme-Addons/button-recolor/master/src/main/_lookFilled.scss);
+
+@import url(https://raw.githack.com/Discord-Theme-Addons/button-recolor/master/src/main/_lookGhost.scss);
+
+@import url(https://raw.githack.com/Discord-Theme-Addons/button-recolor/master/src/main/_lookInverted.scss);
+
+@import url(https://raw.githack.com/Discord-Theme-Addons/button-recolor/master/src/main/_lookLink.scss);
+
+@import url(https://github.com/Discord-Theme-Addons/button-recolor/blob/master/src/main/_lookOutlined.scss);
