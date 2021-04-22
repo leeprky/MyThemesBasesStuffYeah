@@ -86,3 +86,7 @@
 .powercord-toast .buttons button {border-radius: 12px;}
 
 .wrapper-3WhCwL {border-radius: var(--hover-border-radius); }
+
+.messageGroupWrapper-o-Zw7G, .connectedAccount-36nQx7, .note-QfFU8y textarea, .listRow-hutiT_:hover, .peopleListItem-2nzedh.active-rhSpJJ, .peopleListItem-2nzedh:hover {
+  border-radius: var(--hover-border-radius);
+}
