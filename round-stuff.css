@@ -90,3 +90,82 @@
 .messageGroupWrapper-o-Zw7G, .connectedAccount-36nQx7, .note-QfFU8y textarea, .listRow-hutiT_:hover, .peopleListItem-2nzedh.active-rhSpJJ, .peopleListItem-2nzedh:hover {
   border-radius: var(--hover-border-radius);
 }
+
+    /* Hovering Round */
+    .clickable-25tGDB .header-2V-4Sw:hover, .selected-31Nl7x .header-2V-4Sw {
+      border-radius: var(--hover-border-radius);
+    }
+
+    .item-26Dhrx {
+      border-radius: var(--hover-border-radius);
+  }
+
+  .side-8zPYf6 .item-PXvHYJ {
+    border-radius: var(--hover-border-radius);
+}
+
+.powercord-account, .powercord-product, .formNotice-2_hHWR {
+  border-radius: var(--hover-border-radius);
+}
+
+.lookFilled-1Gx00P.colorYellow-2JqYwt {
+  border-radius: var(--hover-border-radius);
+}
+
+.membershipDialogHouse1-3KhKE- {
+  border-radius: var(--hover-border-radius);
+}
+
+.peopleList-3c4jOR.grid .peopleListItem-2nzedh {
+  border-radius: var(--hover-border-radius);
+}
+
+.theme-dark .addGamePopout-2RY8Ju, .css-1ye7vu0, .css-3vaxre-menu  {
+  border-radius: var(--hover-border-radius);
+}
+
+.css-1yz4bi9-option {
+  border-radius: var(--hover-border-radius);
+}
+.css-1ba14n5-option {
+  border-radius: var(--hover-border-radius);
+}
+
+    .container-_phMUq {
+      border-radius: var(--hover-border-radius);
+    }
+
+    .roleRow-30TwGe:hover:not(.roleRowDisableHover-1HiqqT) {
+      border-radius: var(--hover-border-radius);
+    }
+
+    .side-8zPYf6 .themed-OHr7kt.item-PXvHYJ:hover:not(.disabled-1Hwwfb), .topPill-30KHOu .themed-OHr7kt.item-PXvHYJ:hover:not(.disabled-1Hwwfb) {
+      border-radius: var(--hover-border-radius);
+  }
+
+  .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV:hover {
+    border-radius: var(--hover-border-radius);
+  }
+  .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV {
+    border-radius: var(--hover-border-radius);
+  }
+
+    .theme-dark .card-o7rAq- {
+      border-radius: var(--hover-border-radius);
+    }
+
+    .side-8zPYf6 .item-PXvHYJ {
+      border-radius: var(--hover-border-radius);
+    }
+
+    .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV {
+      border-radius: var(--hover-border-radius);
+  }
+
+    .draggableWrapper-1MSRt5, .enableContainer-2DIT9Q, .settingsFormFieldWrapper-3Y77Pr, .welcomeChannel-1rFrIO {
+      border-radius: var(--hover-border-radius);
+    }
+
+    .tierHeaderContent-2-YfvN {
+      border-radius: var(--hover-border-radius);
+    }
