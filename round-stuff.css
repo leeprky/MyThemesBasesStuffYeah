@@ -169,3 +169,7 @@
     .tierHeaderContent-2-YfvN {
       border-radius: var(--hover-border-radius);
     }
+
+    .theme-dark .card-FDVird:before {
+      border-radius: var(--hover-border-radius);
+    }
