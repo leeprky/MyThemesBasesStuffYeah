@@ -76,3 +76,5 @@
 .theme-dark.card-FDVird:before{border-radius:var(--hover-border-radius)}
 .theme-dark .quickSelectPopout-X1hvgV {border-radius: var(--hover-border-radius);}
 .theme-dark .quickSelectPopoutOption-opKBx9:hover {border-radius: var(--hover-border-radius);}
+.ThemeDownloaderApply:not(.applied) div:hover{border-radius:var(--hover-border-radius)}
+.ThemeDownloaderApply:not(.applied) div{border-radius:var(--hover-border-radius)}
