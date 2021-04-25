@@ -90,3 +90,5 @@ polyline[stroke*="7289da"]{stroke:rgba(var(--alt-color))!important}
 
 /* Goosemod */
 .lookFilled-1Gx00P.colorBrand-3pXr91 {background-color: var(--alt-color2);}
+.lookFilled-1Gx00P .contents-18-Yxp, .lookInverted-2D7oAl .contents-18-Yxp, .lookLink-9FtZy- .contents-18-Yxp, .lookOutlined-3sRXeN .contents-18-Yxp {
+color: var(--text-normal);}
