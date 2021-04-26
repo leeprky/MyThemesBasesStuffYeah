@@ -78,3 +78,6 @@
 .theme-dark .quickSelectPopoutOption-opKBx9:hover {border-radius: var(--hover-border-radius);}
 .ThemeDownloaderApply:not(.applied) div:hover{border-radius:var(--hover-border-radius)}
 .ThemeDownloaderApply:not(.applied) div{border-radius:var(--hover-border-radius)}
+.side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ, .topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ {
+  border-radius: var(--hover-border-radius);
+}
