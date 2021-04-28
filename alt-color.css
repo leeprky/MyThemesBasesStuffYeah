@@ -89,6 +89,9 @@ polyline[stroke*="7289da"]{stroke:rgba(var(--alt-color))!important}
 .button-2TV-eO:hover {background-color: var(--alt-color2);}
 .lookFilled-1Gx00P.colorBrand-3pXr91 {background-color: var(--alt-color2);}
 .button-gP4R86:hover {background-color: var(--alt-color2);};
+    .buttonContainer-3mRVAA.selected-iN3sEO {
+      background-color: var(--alt-color2);
+    }
 
 /* Goosemod */
 .lookFilled-1Gx00P.colorBrand-3pXr91 {background-color: var(--alt-color2);}
